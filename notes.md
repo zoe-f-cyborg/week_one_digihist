@@ -1,2 +1,5 @@
-This is where I would keep my notes 
-# If I had any
+Some links which I found useful in week one:
+
+I think you should use an
+`<addr>` element here instead.
+
