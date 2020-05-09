@@ -10,3 +10,4 @@ which I want to keep a place for so that I can record not just the "necessary" t
 - [The Valley of Shadows Project](https://valley.lib.virginia.edu/)
 - [DoHistory](http://dohistory.org/)
 - Games to consider playing: Lifeline and The Stanley Parable 
+- [Narrascop podcast](https://narrascope.org/2019/10/podcast-ep1.html)
